@@ -156,9 +156,9 @@
 * createContext() -> create Context variable
 * useContext() -> to use the context variable
 * In class-based component, we use <UserContext.Consumer>{data=>{console.log(data)}} </UserContext.Consumer> like this.
-* In app-based component, <UserContext.Provider value: {{userName : "kumar badal"}}></UserContext.Provider>
+* In app-based component, <UserContext.Provider value: {{userName : "swapnil gupta"}}></UserContext.Provider>
 * We can pass the function also, in the above approach.
-<UserContext.Provider value: {{userName : "kumar badal", setUserName}}></UserContext.Provider>
+<UserContext.Provider value: {{userName : "swapnil gupta", setUserName}}></UserContext.Provider>
 Here, the setUserName can be used to update the userName.
 
 ### Redux

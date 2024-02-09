@@ -20,7 +20,7 @@ class ABoutClass extends React.Component{
                 </UserContext.Consumer>
                 <h1>About Us</h1>
                 <h2>This is React Practise Project(AboutClass)</h2>
-                <UserClass name="Kumar Badal" gmail="testfood@support.in" />
+                <UserClass name="swapnil gupta" gmail="testfood@support.in" />
             </div>
         )
     }

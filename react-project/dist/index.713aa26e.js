@@ -2982,7 +2982,7 @@ const AppLayout = ()=>{
     _s();
     const [userName, setUserName] = (0, _react.useState)("");
     (0, _react.useEffect)(()=>{
-        setUserName("Kumar Badal");
+        setUserName("swapnil gupta");
     }, []);
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRedux.Provider), {
         store: (0, _appStoreDefault.default),
@@ -35852,7 +35852,7 @@ class ABoutClass extends (0, _reactDefault.default).Component {
                     columnNumber: 17
                 }, this),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _userClassDefault.default), {
-                    name: "Kumar Badal",
+                    name: "swapnil gupta",
                     gmail: "testfood@support.in"
                 }, void 0, false, {
                     fileName: "src/components/about.js",

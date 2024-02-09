@@ -19,7 +19,7 @@ const Grocery = lazy(()=> import("./Grocery"));
 const AppLayout = ()=>{
     const [userName, setUserName] = useState("");
     useEffect(()=>{
-        setUserName("Kumar Badal");
+        setUserName("swapnil gupta");
     },[])
     return (
         <Provider store={appStore}>
